@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "fast-zero"
+version = "0.1.0"
+description = ""
+authors = ["PedroPinheiro <henrique363@gmail.com>"]
+readme = "README.md"
+"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
